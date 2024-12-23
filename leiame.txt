@@ -1,0 +1,5 @@
+Descrição do Projeto
+
+Este código foi inspirado por um vídeo do canal Dev Club no YouTube. No entanto, fiz algumas modificações e ajustes conforme a minha necessidade, pois encontrei alguns problemas durante a implementação inicial. Aqui está o resultado final do código, com minhas próprias alterações para torná-lo funcional e adequado ao meu projeto.
+
+E um projeto simples // 🙃
